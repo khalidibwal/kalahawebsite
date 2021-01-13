@@ -50,7 +50,7 @@
       </div>
       <div class="row ftco-animate">
         <div class="col-md text-left">
-          <p>&copy; Kalaha F&B</p>
+          <p>&copy; Kalaha F&Bs</p>
         </div>
       </div>
     </div>
