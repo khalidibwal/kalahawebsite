@@ -10,7 +10,7 @@
 <section class="ftco-cover" style="background-image: url(images/icons/bg_wharff.jpg)" id="section-home">
 @endsection
 @section('title')
-<img src="images/icons/logo-wharf.png" alt="IMG-OUR">
+<img src="images/icons/logo-wharf.png" alt="IMG-OUR" class="ftco-animate">
 @endsection
 
 {{-- gallery --}}
