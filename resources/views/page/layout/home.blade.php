@@ -1,4 +1,6 @@
 @extends('component.footer')
+@extends('page.layout.contactus')
+@extends('page.layout.reservation')
 @extends('page.layout.gallery')
 @extends('component.event')
 @extends('page.layout.welcome')

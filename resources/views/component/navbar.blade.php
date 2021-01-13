@@ -11,7 +11,6 @@
           <li class="nav-item"><a href="#section-about" class="nav-link">About</a></li>
           <li class="nav-item"><a href="#section-offer" class="nav-link">Location</a></li>
           <li class="nav-item"><a href="#section-menu" class="nav-link">Menu</a></li>
-          <li class="nav-item"><a href="#section-news" class="nav-link">News</a></li>
           <li class="nav-item"><a href="#section-gallery" class="nav-link">Gallery</a></li>
           <li class="nav-item"><a href="#section-contact" class="nav-link">Contact</a></li>
         </ul>
