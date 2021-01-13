@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5,
 .text-primary {
   color: #F96D00 !important; }
 
+.blackfoot{
+  background-color: #263135;
+}
+
 .ftco-navbar-light {
   background: transparent !important;
   position: absolute;

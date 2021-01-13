@@ -5,7 +5,7 @@
           <h2 class="display-4">Today's Menu</h2>
           <div class="row justify-content-center">
             <div class="col-md-7">
-              <p class="lead">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p class="lead"></p>
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@
                     <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
@@ -41,7 +41,7 @@
                     <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$24.50</h6>
                     </div>
                   </div>
@@ -50,7 +50,7 @@
                     <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$14.50</h6>
                     </div>
                   </div>
@@ -61,7 +61,7 @@
                     <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
@@ -70,7 +70,7 @@
                     <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$12.50</h6>
                     </div>
                   </div>
@@ -79,7 +79,7 @@
                     <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$18.50</h6>
                     </div>
                   </div>
@@ -94,7 +94,7 @@
                     <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$14.50</h6>
                     </div>
                   </div>
@@ -103,7 +103,7 @@
                     <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
@@ -112,7 +112,7 @@
                     <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$24.50</h6>
                     </div>
                   </div>
@@ -124,7 +124,7 @@
                     <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$18.50</h6>
                     </div>
                   </div>
@@ -133,7 +133,7 @@
                     <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
@@ -142,7 +142,7 @@
                     <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$12.50</h6>
                     </div>
                   </div>
@@ -159,7 +159,7 @@
                     <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$24.50</h6>
                     </div>
                   </div>
@@ -168,7 +168,7 @@
                     <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
@@ -177,7 +177,7 @@
                     <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$14.50</h6>
                     </div>
                   </div>
@@ -189,7 +189,7 @@
                     <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$18.50</h6>
                     </div>
                   </div>
@@ -198,7 +198,7 @@
                     <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
@@ -207,7 +207,7 @@
                     <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <p></p>
                       <h6 class="text-primary menu-price">$12.50</h6>
                     </div>
                   </div>
