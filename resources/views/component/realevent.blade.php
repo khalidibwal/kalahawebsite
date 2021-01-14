@@ -1,9 +1,9 @@
-<section class="ftco-section bg-light" id="section-offer">
-    <div class="container">
+<section class="ftco-section" id="section-offer" style="background-image: url(images/bg-event-02.jpg)" >
+    <div class="container" >
       
       <div class="row">
         <div class="col-md-12 text-center mb-5 ftco-animate">
-          <h2 class="display-4">Event</h2>
+          <h2 class="display-4 eventcolor">Event</h2>
 
         </div>
         <div class="col-md-12">

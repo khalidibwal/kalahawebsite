@@ -1,4 +1,4 @@
-<section class="ftco-cover" style="background-image: url(images/gallery/pier.jpg)" id="section-home">
+<section class="ftco-cover" style="background-image: url(images/gallery/gallery-photo17.jpg)" id="section-home">
     <div class="container">
       <div class="row align-items-center justify-content-center text-center ftco-vh-100">
         <div class="col-md-12">

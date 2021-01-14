@@ -5,34 +5,73 @@
           <div class="row">
             <div class="col-md ftco-animate">
               <div class="ftco-footer-widget mb-4">
-                <h2 class="ftco-heading-2">Kalaha F&B</h2>
+                <h2 class="ftco-heading-2">Contact Us</h2>
                 <ul class="list-unstyled">
-                  <li><a href="#" class="py-2 d-block">About Us</a></li>
-                  <li><a href="#" class="py-2 d-block">Chefs</a></li>
-                  <li><a href="#" class="py-2 d-block">Events</a></li>
-                  <li><a href="#" class="py-2 d-block">Contact</a></li>
+                  <li><a href="#" class="py-2 d-block">Ancol Beach City Mall, Carnaval Beach, Ancol Park</a></li>
+                  <li><a href="#" class="py-2 d-block">(+62) 21 2938 8108</a></li>
+                  <li><a href="#" class="py-2 d-block">the.wharf@kalahagroup.com</a></li>
+                </ul>
+              </div>
+
+              <div class="ftco-footer-widget mb-4">
+                <h2 class="ftco-heading-2"></h2>
+                <ul class="list-unstyled">
+                  <li><a href="#" class="py-2 d-block">Ancol Lake Monument Promenade, Pantai Indah Street - Ancol Park</a></li>
+                  <li><a href="#" class="py-2 d-block">(+62) 21 6471 6686 / 91</a></li>
+                  <li><a href="#" class="py-2 d-block">the.pier@kalahagroup.com</a></li>
+                </ul>
+              </div>
+
+              <div class="ftco-footer-widget mb-4">
+                <h2 class="ftco-heading-2"></h2>
+                <ul class="list-unstyled">
+                  <li><a href="#" class="py-2 d-block">Somerset Grand Citra Apartment Ground Floor (GF)
+                    Jalan Prof. DR. Satrio Kav. 1, Executive Capital Region of Jakarta</a></li>
+                  <li><a href="#" class="py-2 d-block">(+62) 21 2995 6848</a></li>
+                  <li><a href="#" class="py-2 d-block">the.den@kalahagroup.com</a></li>
                 </ul>
               </div>
             </div>
             <div class="col-md ftco-animate">
                <div class="ftco-footer-widget mb-4">
-                <h2 class="ftco-heading-2">Communities</h2>
+                <h2 class="ftco-heading-2">Operating Hours</h2>
                 <ul class="list-unstyled">
-                  <li><a href="#" class="py-2 d-block">Support</a></li>
-                  <li><a href="#" class="py-2 d-block">Sharing is Caring</a></li>
-                  <li><a href="#" class="py-2 d-block">Better Web</a></li>
-                  <li><a href="#" class="py-2 d-block">Good Template</a></li>
+                  <li><a href="#" class="py-2 d-block">Kalaha at The WHARF</a></li>
+                  <li><a href="#" class="fontfooter">Monday - Thursday (09:00AM - 12:00AM)   
+                    </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Friday/Public Holiday (09:00AM - 02:00AM)
+                  </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Saturday/Public Holiday (07:00AM - 02:00AM)
+                  </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Sunday/Public Holiday (07:00AM - 12:00AM)
+                  </a></li>
                 </ul>
-              </div>
-            </div>
-            <div class="col-md ftco-animate">
-               <div class="ftco-footer-widget mb-4">
-                <h2 class="ftco-heading-2">Useful links</h2>
+
                 <ul class="list-unstyled">
-                  <li><a href="#" class="py-2 d-block">Bootstrap 4</a></li>
-                  <li><a href="#" class="py-2 d-block">jQuery</a></li>
-                  <li><a href="#" class="py-2 d-block">HTML5</a></li>
-                  <li><a href="#" class="py-2 d-block">Sass</a></li>
+                  <li><a href="#" class="py-2 d-block">The PIER by Kalaha</a></li>
+                  <li><a href="#" class="fontfooter">Monday - Thursday (09:00AM - 12:00AM)   
+                    </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Friday (09:00AM - 02:00AM)
+                  </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Saturday (07:00AM - 12:00AM)
+                  </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Public Holiday Eve Closing (02:00AM)
+                  </a></li>
+                </ul>
+
+                <ul class="list-unstyled">
+                  <li><a href="#" class="py-2 d-block">The DEN Of Kalaha</a></li>
+                  <li><a href="#" class="fontfooter">Monday - Thursday (08:00AM - 12:00AM) 
+                    </a></li>
+                  <li><a href="#" class="fontfooter">
+                    Friday - Sunday (08:00AM - 02:00AM)
+                  </a></li>
                 </ul>
               </div>
             </div>

@@ -28,7 +28,13 @@ h1, h2, h3, h4, h5,
   color: #F96D00 !important; }
 
 .blackfoot{
-  background-color: #263135;
+  background-color: #000000;
+}
+.fontfooter{
+  font-size: small;
+}
+.eventcolor{
+  color: #ccc;
 }
 
 .ftco-navbar-light {
@@ -247,7 +253,7 @@ h1, h2, h3, h4, h5,
     padding: 10px 20px;
     font-size: 12px; }
   .btn.btn-primary {
-    border-radius: 0px; }
+    border-radius: 10px; }
   .btn.btn-secondary {
     border: 2px solid #ccc;
     background: none;
@@ -285,8 +291,8 @@ h1, h2, h3, h4, h5,
   height: 55px !important;
   background: #fff !important;
   color: #000 !important;
-  font-size: 18px;
-  border-radius: 0px; }
+  font-size: 12px;
+  border-radius: 10px; }
   .form-control:focus, .form-control:active {
     border: 2px solid #000; }
 

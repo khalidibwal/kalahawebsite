@@ -29,58 +29,54 @@
               <div class="row">
                 <div class="col-md-6 ftco-animate">
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_den1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
+                      <p></p>
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$35.50</h6>
+                      
+                      
                     </div>
                   </div>
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_den2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Italian Sauce Mushroom</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$24.50</h6>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
                     </div>
                   </div>
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_den3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$14.50</h6>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
                     </div>
                   </div>
 
                 </div>
                 <div class="col-md-6 ftco-animate">
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_den4.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Italian Sauce Mushroom</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$35.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$12.50</h6>
                     </div>
                   </div>
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_pier1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$18.50</h6>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
+                    </div>
+                  </div>
+
+                  <div class="media menu-item">
+                    <img class="mr-3" src="images/makanan/menu_pier2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <div class="media-body">
+                      <p></p>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
                     </div>
                   </div>
                 </div>
@@ -91,29 +87,26 @@
                 <div class="col-md-6 ftco-animate">
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_pier3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$14.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_pier4.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Italian Sauce Mushroom</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$24.50</h6>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
+                    </div>
+                  </div>
+
+                  <div class="media menu-item">
+                    <img class="mr-3" src="images/makanan/menu_wharf1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <div class="media-body">
+                      <p></p>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
                     </div>
                   </div>
 
@@ -121,29 +114,26 @@
                 <div class="col-md-6 ftco-animate">
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu_wharf2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$18.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
-                      <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$35.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
+                    </div>
+                  </div>
+
+                  <div class="media menu-item">
+                    <img class="mr-3" src="images/makanan/menu_wharf3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <div class="media-body">
                       <p></p>
-                      <h6 class="text-primary menu-price">$12.50</h6>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
+                    </div>
+                  </div>
+
+                  <div class="media menu-item">
+                    <img class="mr-3" src="images/makanan/menu_wharf4.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <div class="media-body">
+                      <p></p>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
                     </div>
                   </div>
 
@@ -156,63 +146,35 @@
                 <div class="col-md-6 ftco-animate">
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu-pinggir1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Italian Sauce Mushroom</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$24.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
                       <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$35.50</h6>
                     </div>
                   </div>
 
                   <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <img class="mr-3" src="images/makanan/menu-pinggir2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
                     <div class="media-body">
-                      <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                       <p></p>
-                      <h6 class="text-primary menu-price">$14.50</h6>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
+                    </div>
+                  </div>
+
+                  <div class="media menu-item">
+                    <img class="mr-3" src="images/makanan/menu-pinggir3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
+                    <div class="media-body">
+                      <p></p>
+                      <h5 class="mt-0">Salted Fried Chicken</h5>
                     </div>
                   </div>
 
                 </div>
                 <div class="col-md-6 ftco-animate">
 
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
-                      <h5 class="mt-0">Fried Potato w/ Garlic</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$18.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
-                      <h5 class="mt-0">Italian Sauce Mushroom</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$35.50</h6>
-                    </div>
-                  </div>
-
-                  <div class="media menu-item">
-                    <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by Free-Template.co">
-                    <div class="media-body">
-                      <h5 class="mt-0">Salted Fried Chicken</h5>
-                      <p></p>
-                      <h6 class="text-primary menu-price">$12.50</h6>
-                    </div>
-                  </div>
-
                   
+
+                 {{-- menu here  --}}
                 </div>
               </div>
             </div>
