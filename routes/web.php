@@ -14,7 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('component.logo');
 });
 
+Route::get('/fnb', 'fnbController@view');
 Route::get('/wharf', 'wharfController@view');
+Route::get('/Denofkalaha', 'denController@view');

@@ -36,6 +36,29 @@ h1, h2, h3, h4, h5,
 .eventcolor{
   color: #ccc;
 }
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+}
+
+.brands__item {
+  background: #eee;
+}
+.brands__item a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.brands__item img {
+  display: block;
+  /* Make sure max-width is added */
+  max-width: 100%;
+  mix-blend-mode: multiply;
+  
+}
 
 .ftco-navbar-light {
   background: transparent !important;

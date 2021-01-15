@@ -5,9 +5,7 @@
         <div class="col-md-12 text-center mb-5 ftco-animate">
           <h2 class="display-4">Our Gallery</h2>
           <div class="row justify-content-center">
-            <div class="col-md-7">
-              <p class="lead">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-            </div>
+         
           </div>
         </div>
 

@@ -2,3 +2,27 @@
     width: 100px;
     height: 100px;
 }
+
+.alignlogos{
+    padding-top: 40;
+}
+.zoom {
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  .whitebg {
+    border: 2px solid black;
+    padding: 25px;
+    background-image: url('images/white.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
