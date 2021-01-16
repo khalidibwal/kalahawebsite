@@ -7,11 +7,7 @@
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active"><a href="#section-home" class="nav-link">Home</a></li>
-          <li class="nav-item"><a href="#section-about" class="nav-link">About</a></li>
-          <li class="nav-item"><a href="#section-offer" class="nav-link">Location</a></li>
-          <li class="nav-item"><a href="#section-gallery" class="nav-link">Gallery</a></li>
-          <li class="nav-item"><a href="#section-contact" class="nav-link">Contact</a></li>
+          @yield('navbar')
         </ul>
       </div>
     </div>

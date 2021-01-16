@@ -30,7 +30,7 @@
                   <h5 class="mt-0 h4">THE PIER BY KALAHA</h5>
                   
 
-                  <p class="mb-0"><a href="#" class="btn btn-primary btn-sm">Click To See The location</a></p>
+                  <p class="mb-0"><a href="{{ url('/thepierbykalaha')}}" class="btn btn-primary btn-sm">Click To See The location</a></p>
                 </div>
               </div>
             </div>

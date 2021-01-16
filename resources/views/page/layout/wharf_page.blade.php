@@ -39,3 +39,16 @@
 <img src="images/gallery/gallery-photo35.jpg" alt="Free Template by Free-Template.co" class="img-fluid">  
 @endsection
 
+{{-- Reservation --}}
+@section('reservasi')
+<p><a href="https://free-template.co/" target="_blank" class="btn btn-outline-white btn-lg ftco-animate" data-toggle="modal" data-target="#reservationModal">Reservation</a></p>   
+@endsection
+
+{{-- navbar --}}
+@section('navbar')
+<li class="nav-item active"><a href="#section-home" class="nav-link">Home</a></li>
+<li class="nav-item"><a href="#section-about" class="nav-link">About</a></li>
+<li class="nav-item"><a href="#section-offer" class="nav-link">Location</a></li>
+<li class="nav-item"><a href="#section-gallery" class="nav-link">Gallery</a></li>
+<li class="nav-item"><a href="#section-contact" class="nav-link">Contact</a></li>
+@endsection

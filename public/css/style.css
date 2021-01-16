@@ -77,6 +77,13 @@ h1, h2, h3, h4, h5,
     padding-bottom: 30px;
     padding-left: 20px;
     padding-right: 20px; }
+    .ftco-navbar-light .navbar-nav > .nav-item > .nav-link-pier {
+      font-size: 16px;
+      color: black;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      padding-left: 20px;
+      padding-right: 20px; }
     @media screen and (max-width: 960px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
         padding-top: 10px;
@@ -84,7 +91,7 @@ h1, h2, h3, h4, h5,
         padding-left: 0px;
         padding-right: 0px; } }
   .ftco-navbar-light .navbar-nav > .nav-item.ftco-cta a {
-    color: #fff; }
+    color: rgb(255, 255, 255); }
   .ftco-navbar-light .navbar-nav > .nav-item.ftco-seperator {
     position: relative;
     margin-left: 20px;
@@ -308,6 +315,17 @@ h1, h2, h3, h4, h5,
       background: #fff;
       border-color: #fff;
       color: #000; }
+
+      .btn.btn-outline-black {
+        border-color: rgba(0, 0, 0, 0.8);
+        background: none;
+        color: #000000;
+        border-radius: 0px;
+        border-width: 2px; }
+        .btn.btn-outline-black:hover, .btn.btn-outline-black:focus, .btn.btn-outline-black:active {
+          background: rgb(224, 208, 208);
+          border-color: rgb(24, 14, 14);
+          color: #000; }
 
 .form-control {
   border: 2px solid rgba(0, 0, 0, 0.2);
