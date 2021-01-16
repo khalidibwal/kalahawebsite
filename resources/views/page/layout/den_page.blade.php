@@ -53,3 +53,24 @@
 <li class="nav-item"><a href="#section-contact" class="nav-link">Contact</a></li>
 @endsection
 
+@section('formcontact')
+<form action="/Denofkalaha/store" method="post">
+    {{ csrf_field() }}
+    <div class="form-group">
+      <label for="name" class="sr-only">Name</label>
+      <input type="text" class="form-control" id="name" placeholder="Enter your name" required="required" name="names">
+    </div>
+    <div class="form-group">
+      <label for="email" class="sr-only">Email</label>
+      <input type="text" class="form-control" id="email" placeholder="Enter your email" required="required" name="email">
+    </div>
+    <div class="form-group">
+      <label for="message" class="sr-only">Message</label>
+      <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Write your message" required="required" name="message"></textarea>
+    </div>
+    <div class="form-group">
+      <input type="submit" class="btn btn-primary btn-lg" value="Send Message">
+    </div>
+  </form>
+@endsection
+
