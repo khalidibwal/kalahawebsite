@@ -3,10 +3,10 @@
       <div class="row">
         <div class="col-md-5 ftco-animate mb-5">
           <h4 class="ftco-sub-title">Our Story</h4>
-          <h2 class="ftco-primary-title display-4">Welcome</h2>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          <h2 class="ftco-primary-title display-4">Kalaha Group</h2>
+          <p>PT Kalatham Corporation was established in 1969 by the Late Mr. Samatha Widradjita Kalaha. In 2003, PT Kalatham Coorperation changed the name to PT Kalatham.</p>
 
-          <p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+          <p class="mb-4">PT Kalatham’s Vision is to become a world class company and to expand to other ASEAN countries and Australia. Our missions are to deliver value added service to our customers, to develop sustainable business, and to ensure professionalism.</p>
           <p><a href="#" class="btn btn-secondary btn-lg">Our Story</a></p>
         </div>
         <div class="col-md-1"></div>
