@@ -186,7 +186,7 @@ $(document).ready(function($) {
   });
 
   $('#m_date').datepicker({
-	  'format': 'm/d/yyyy',
+	  'format': 'yyyy/mm/dd',
 	  'autoclose': true
 	});
 	$('#m_time').timepicker();

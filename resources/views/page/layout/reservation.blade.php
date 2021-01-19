@@ -9,7 +9,13 @@
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <small>CLOSE </small><span aria-hidden="true">&times;</span>
               </button>
-              <h1 class="mb-4">Reserve A Table</h1>  
+              <h1 class="mb-4">Reserve A Table</h1>
+              @if ($message = Session::get('success'))
+              <div class="alert alert-success alert-block">
+              <button type="button" class="close" data-dismiss="alert">×</button>	
+                <strong>{{ $message }}</strong>
+              </div>
+            @endif  
               @yield('mail_reservation')
             </div>
           </div>

@@ -1,7 +1,7 @@
 @extends('styling.master')
 <div>
-    <h1>Reservation for Wharf At The Kalaha</h1>
-    <p>Ancol Beach City Mall</p>
+    <h1>Reservation for Pier By The Kalaha</h1>
+    <p>Ancol Lake Monument Promenade</p>
     <p>Time Reservation : {{$data['times']}}</p>
     <p>Reservation For : {{$data['people']}} People</p>
     <br />

@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class WharfReservation extends Migration
+class PierReservation extends Migration
 {
     /**
      * Run the migrations.
@@ -13,7 +13,7 @@ class WharfReservation extends Migration
      */
     public function up()
     {
-        Schema::create('wharfreservations',function(Blueprint $table){
+        Schema::create('pierreservations',function(Blueprint $table){
             $table->id();
             $table->string('first_name');
             $table->string('last_name');
@@ -33,6 +33,6 @@ class WharfReservation extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('wharfreservations');
+        Schema::dropIfExists('pierreservations');
     }
 }

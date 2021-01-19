@@ -97,11 +97,11 @@
   <div class="row">
     <div class="col-md-6 form-group">
       <label for="m_people">How Many People</label>
-      <select name="" id="m_people" class="form-control">
+      <select name="people" id="m_people" class="form-control">
         <option value="1">1 People</option>
         <option value="2">2 People</option>
         <option value="3">3 People</option>
-        <option value="4+">4+ People And More</option>
+        <option value="4 people and more">4+ People And More</option>
       </select>
     </div>
     <div class="col-md-6 form-group">
@@ -112,7 +112,7 @@
   <div class="row">
     <div class="col-md-6 form-group">
       <label for="m_date">Date</label>
-      <input type="text" class="form-control" id="m_date" name="dates">
+      <input type="text" placeholder="yyyy-mm-dd" class="form-control" id="m_date" name="dates">
     </div>
     <div class="col-md-6 form-group">
       <label for="m_time">Time</label>

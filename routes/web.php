@@ -30,5 +30,7 @@ Route::post('/thepierbykalaha/store','pierController@store');
 
 //Send Reservation
 Route::post('/wharf/reservation','wharfController@reservation');
+Route::post('/Denofkalaha/reservation','denController@reservation');
+Route::post('/thepierbykalaha/reservation','pierController@reservation');
 
 
