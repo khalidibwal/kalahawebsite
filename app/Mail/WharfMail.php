@@ -28,7 +28,7 @@ class WharfMail extends Mailable
      */
     public function build()
     {
-        return $this->from('khalidibwal@gmail.com')
+        return $this->from('khalid@kalahagroup.com')
         ->view('page.email.wharfmail')->with('data', $this->data);
     }
 }

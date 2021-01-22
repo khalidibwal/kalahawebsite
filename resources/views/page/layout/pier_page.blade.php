@@ -81,17 +81,17 @@
   <div class="row">
     <div class="col-md-6 form-group">
       <label for="m_fname">First Name</label>
-      <input type="text" class="form-control" id="m_fname" name="first_name">
+      <input type="text" class="form-control" id="m_fname" name="first_name" required="required">
     </div>
     <div class="col-md-6 form-group">
       <label for="m_lname">Last Name</label>
-      <input type="text" class="form-control" id="m_lname" name="last_name">
+      <input type="text" class="form-control" id="m_lname" name="last_name" required="required">
     </div>
   </div>
   <div class="row">
     <div class="col-md-12 form-group">
       <label for="m_email">Email</label>
-      <input type="email" class="form-control" id="m_email" name="email">
+      <input type="email" class="form-control" id="m_email" name="email" required="required">
     </div>
   </div>
   <div class="row">
@@ -106,23 +106,23 @@
     </div>
     <div class="col-md-6 form-group">
       <label for="m_phone">Phone</label>
-      <input type="text" class="form-control" id="m_phone" name="phone">
+      <input type="text" class="form-control" id="m_phone" name="phone" required="required">
     </div>
   </div>
   <div class="row">
     <div class="col-md-6 form-group">
       <label for="m_date">Date</label>
-      <input type="text" placeholder="yyyy-mm-dd" class="form-control" id="m_date" name="dates">
+      <input type="text" placeholder="yyyy-mm-dd" class="form-control" id="m_date" name="dates" required="required">
     </div>
     <div class="col-md-6 form-group">
       <label for="m_time">Time</label>
-      <input type="text" class="form-control" id="m_time" name="times">
+      <input type="text" class="form-control" id="m_time" name="times" required="required">
     </div>
   </div>
   <div class="row">
     <div class="col-md-12 form-group">
       <label for="m_message">Message</label>
-      <textarea class="form-control" id="m_message" cols="30" rows="7" name="message"></textarea>
+      <textarea class="form-control" id="m_message" cols="30" rows="7" name="message" required="required"></textarea>
     </div>
   </div>                
   <div class="row">

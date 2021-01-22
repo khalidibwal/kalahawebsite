@@ -28,7 +28,7 @@ class DenReserve extends Mailable
      */
     public function build()
     {
-        return $this->from('khalidibwal@gmail.com')
+        return $this->from('khalid@kalahagroup.com')
         ->view('page.reservation.denReserve')->with('data', $this->data);
     }
 }

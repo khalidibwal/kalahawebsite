@@ -28,7 +28,7 @@ class WharfReserve extends Mailable
      */
     public function build()
     {
-        return $this->from('khalidibwal@gmail.com')
+        return $this->from('khalid@kalahagroup.com')
         ->view('page.reservation.wharfReserve')->with('data', $this->data);
     }
 }
