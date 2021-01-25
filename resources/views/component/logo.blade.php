@@ -11,4 +11,5 @@
 
 <div class="text-center">
   <a href="{{url('/wharf')}}" ><img src="{{URL::asset('images/360/logo-wharf.jpg')}}" class="rounded logos zoom" alt="..." ></a>
+  <a href="{{url('/kalatham')}}" ><img src="{{URL::asset('images/360/kalatham.jpg')}}" class="rounded logos zoom" alt="..." ></a>
 </div>

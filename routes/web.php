@@ -21,6 +21,7 @@ Route::get('/fnb', 'fnbController@view');
 Route::get('/wharf', 'wharfController@view');
 Route::get('/Denofkalaha', 'denController@view');
 Route::get('/thepierbykalaha', 'pierController@view');
+Route::get('/kalatham', 'kalathamController@view');
 
 // Store contact
 Route::post('/fnb/store','fnbController@store');
