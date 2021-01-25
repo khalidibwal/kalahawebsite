@@ -12,7 +12,7 @@
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{URL::asset('kalathams/style.css')}}">
 </head>
 <body>
     @extends('kalatham.component.footer')
