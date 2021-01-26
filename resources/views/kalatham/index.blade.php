@@ -13,6 +13,7 @@
     <link rel="icon" href="img/core-img/favicon.ico">
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="{{asset('kalathams/css/style.css')}}">
+    @extends('kalatham.styling.jskalatham')
 </head>
 <body>
     @extends('kalatham.component.loading')
@@ -23,7 +24,6 @@
     @extends('kalatham.component.services')
     @extends('kalatham.component.headerTitle')
     @extends('kalatham.component.header')
-    @extends('kalatham.styling.jskalatham')
 </body>
 </html>
 
