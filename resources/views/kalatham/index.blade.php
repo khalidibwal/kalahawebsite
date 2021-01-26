@@ -12,12 +12,18 @@
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="{{URL::asset('kalathams/style.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/style.css')}}">
 </head>
 <body>
-    @extends('kalatham.component.footer')
-    @extends('kalatham.component.header')
     @extends('kalatham.component.loading')
-    @extends('kalatham.styling.js')
+    @extends('kalatham.component.footer')
+    @extends('kalatham.component.contact')
+    @extends('kalatham.component.portfolio')
+    @extends('kalatham.component.aboutus')
+    @extends('kalatham.component.services')
+    @extends('kalatham.component.headerTitle')
+    @extends('kalatham.component.header')
+    @extends('kalatham.styling.jskalatham')
 </body>
 </html>
+
