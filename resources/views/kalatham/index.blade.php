@@ -12,7 +12,15 @@
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="{{asset('kalathams/css/style.css')}}">
+
+    <link rel="stylesheet" href="{{asset('/kalathams/css/elegant-icon.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/font-awesome.min.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/magnific-popup.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/classy-nav.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{asset('kalathams/css/animate.css')}}">
+    <link rel="stylesheet" href="{{asset('/kalathams/css/style.css')}}">
     @extends('kalatham.styling.jskalatham')
 </head>
 <body>
@@ -22,8 +30,8 @@
     @extends('kalatham.component.portfolio')
     @extends('kalatham.component.aboutus')
     @extends('kalatham.component.services')
-    @extends('kalatham.component.headerTitle')
     @extends('kalatham.component.header')
+    @extends('kalatham.component.headerTitle')
 </body>
 </html>
 
