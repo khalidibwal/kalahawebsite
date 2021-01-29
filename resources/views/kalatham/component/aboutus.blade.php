@@ -22,7 +22,7 @@
                         <!-- Single Benefits Area -->
                         <div class="col-12 col-sm-6">
                             <div class="single-benefits-area">
-                                <img src="img/core-img/b1.png" alt="">
+                                <img src="{{asset('kalathams/img/core-img/b1.png')}}" alt="">
                                 <h5>Vision</h5>
                                 <p>Become a world class company and expand the business to other ASEAN countries and Australia
                                 .</p>
@@ -32,7 +32,7 @@
                         <!-- Single Benefits Area -->
                         <div class="col-12 col-sm-6">
                             <div class="single-benefits-area">
-                                <img src="img/core-img/b2.png" alt="">
+                                <img src="{{asset('kalathams/img/core-img/b2.png')}}" alt="">
                                 <h5>Mission</h5>
                                 <p>To deliver value added service to our customers
                                 .</p>
@@ -42,7 +42,7 @@
                         <!-- Single Benefits Area -->
                         <div class="col-12 col-sm-6">
                             <div class="single-benefits-area">
-                                <img src="img/core-img/b3.png" alt="">
+                                <img src="{{asset('kalathams/img/core-img/b3.png')}}" alt="">
                                 <h5>Advancing Harvest</h5>
                                 <p></p>
                             </div>
@@ -51,7 +51,7 @@
                         <!-- Single Benefits Area -->
                         <div class="col-12 col-sm-6">
                             <div class="single-benefits-area">
-                                <img src="img/core-img/b4.png" alt="">
+                                <img src="{{asset('kalathams/img/core-img/b4.png')}}" alt="">
                                 <h5>Environmentally friendly</h5>
                                 <p></p>
                             </div>
