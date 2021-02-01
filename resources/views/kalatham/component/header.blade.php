@@ -29,7 +29,7 @@
                     <nav class="classy-navbar justify-content-between" id="alazeaNav">
         
                         <!-- Nav Brand -->
-                        <a href="index.html" class="nav-brand logo-kalatham"><img src="{{asset('kalathams/img/core-img/kalatham.png')}}" alt=""></a>
+                        <a href="{{url('/')}}" class="nav-brand logo-kalatham"><img src="{{asset('kalathams/img/core-img/kalatham.png')}}" alt=""></a>
         
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -47,10 +47,10 @@
                             <!-- Navbar Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>                                   
-                                    <li><a href="shop.html">Gallery</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="{{url('/kalatham')}}">Home</a></li>
+                                    <li><a href="{{url('/aboutkalatham')}}">About</a></li>                                   
+                                    <li><a href="{{url('/gallerykalatham')}}">Gallery</a></li>
+                                    <li><a href="{{url('/contactuskalatham')}}">Contact</a></li>
                                 </ul>
         
                                 <!-- Search Icon -->

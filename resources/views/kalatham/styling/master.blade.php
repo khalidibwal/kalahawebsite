@@ -25,11 +25,6 @@
 </head>
 <body>
     @extends('kalatham.component.loading')
-    @extends('kalatham.component.footer')
-    @extends('kalatham.component.contact')
-    @extends('kalatham.component.portfolio')
-    @extends('kalatham.component.subscribe')
-    @extends('kalatham.component.aboutus')
     @extends('kalatham.component.headerTitle')
     @extends('kalatham.component.header')
 </body>
