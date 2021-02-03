@@ -676,6 +676,8 @@ img {
       border: none;
       border-radius: 0 2px 2px 0; }
   .subscribe-newsletter-area .subscribe-side-thumb .first-img {
+    width:80px;
+    height: 80px;
     position: absolute;
     top: -30px;
     left: 5%;

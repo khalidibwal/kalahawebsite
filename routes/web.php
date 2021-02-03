@@ -31,6 +31,7 @@ Route::post('/fnb/store','fnbController@store');
 Route::post('/wharf/store','wharfController@store');
 Route::post('/Denofkalaha/store','denController@store');
 Route::post('/thepierbykalaha/store','pierController@store');
+Route::post('/contactuskalatham/store','kalathamController@store')->name('kala.store');
 
 //Send Reservation
 Route::post('/wharf/reservation','wharfController@reservation');

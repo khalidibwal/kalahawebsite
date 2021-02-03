@@ -30,7 +30,7 @@
             <!-- Single Portfolio Area -->
             <div class="col-12 col-sm-6 col-lg-3 single_portfolio_item design home-design wow fadeInUp" data-wow-delay="100ms">
                 <!-- Portfolio Thumbnail -->
-                <div class="portfolio-thumbnail bg-img" style="background-image: url(kalathams/img/bg-img/sains2.jpg);"></div>
+                <div class="portfolio-thumbnail bg-img" style="background-image: url(kalathams/img/bg-img/sains.jpg);"></div>
                 <!-- Portfolio Hover Text -->
                 <div class="portfolio-hover-overlay">
                     <a href="img/bg-img/16.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 1">
@@ -120,7 +120,7 @@
             <!-- Single Portfolio Area -->
             <div class="col-12 col-lg-6 single_portfolio_item home-design wow fadeInUp" data-wow-delay="300ms">
                 <!-- Portfolio Thumbnail -->
-                <div class="portfolio-thumbnail bg-img" style="background-image: url(img/bg-img/22.jpg);"></div>
+                <div class="portfolio-thumbnail bg-img" style="background-image: url(img/bg-img/warehouse-min.jpg);"></div>
                 <!-- Portfolio Hover Text -->
                 <div class="portfolio-hover-overlay">
                     <a href="img/bg-img/22.jpg" class="portfolio-img d-flex align-items-center justify-content-center" title="Portfolio 7">

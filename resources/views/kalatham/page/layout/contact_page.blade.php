@@ -3,22 +3,32 @@
         <div class="row align-items-center justify-content-between">
             <div class="col-12 col-lg-5">
                 <!-- Section Heading -->
+                <div class="row justify-content-center">
+                    @if ($message = Session::get('kalatham_success'))
+                    <div class="alert alert-success alert-block">
+                    <button type="button" class="close" data-dismiss="alert">×</button>	
+                      <strong>{{ $message }}</strong>
+                    </div>
+                  @endif
+                  </div>
                 <div class="section-heading">
                     <h2>GET IN TOUCH</h2>
                     <p>Send us a message, we will call back later</p>
+                    
                 </div>
                 <!-- Contact Form Area -->
                 <div class="contact-form-area mb-100">
-                    <form action="#" method="post">
+                    <form action="{{route('kala.store')}}" method="post">
+                        @csrf
                         <div class="row">
                             <div class="col-12 col-sm-6">
                                 <div class="form-group">
-                                    <input type="text" class="form-control" id="contact-name" placeholder="Your Name">
+                                    <input type="text" class="form-control" id="contact-name" placeholder="Your Name" name="name" required>
                                 </div>
                             </div>
                             <div class="col-12 col-sm-6">
                                 <div class="form-group">
-                                    <input type="email" class="form-control" id="contact-email" placeholder="Your Email">
+                                    <input type="email" class="form-control" id="contact-email" placeholder="Your Email" name="email" required>
                                 </div>
                             </div>
                             <div class="col-12">
@@ -28,7 +38,7 @@
                             </div>
                             <div class="col-12">
                                 <div class="form-group">
-                                    <textarea class="form-control" name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+                                    <textarea class="form-control" name="message" id="message" cols="30" rows="10" placeholder="Message" name="message" required></textarea>
                                 </div>
                             </div>
                             <div class="col-12">

@@ -25,7 +25,7 @@
         <!-- Single Hero Post -->
         <div class="single-hero-post bg-overlay">
             <!-- Post Image -->
-            <div class="slide-img bg-img" style="background-image: url(kalathams/img/bg-img/obat1.jpg);"></div>
+            <div class="slide-img bg-img" style="background-image: url(kalathams/img/bg-img/fertil-min.jpg);"></div>
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
                     <div class="col-12">

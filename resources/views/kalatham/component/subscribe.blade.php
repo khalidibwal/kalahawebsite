@@ -13,6 +13,6 @@
 
     <!-- Subscribe Side Thumbnail -->
     <div class="subscribe-side-thumb wow fadeInUp" data-wow-delay="500ms">
-        <img class="first-img" src="{{asset('kalathams/img/core-img/leaf.png')}}" alt="">
+        <img class="first-img" src="{{asset('kalathams/img/core-img/kalatham-min.png')}}" alt="">
     </div>
 </section>
